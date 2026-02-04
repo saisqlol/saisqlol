@@ -1,6 +1,6 @@
 # Bem-vindo ao meu repositório 👋
 
-Sou Economista formado pela **UFRRJ** e atuo como **Cientista de Dados** na **Época Cosméticos** (Grupo Magazine Luiza).
+Sou Economista formado pela **UFRRJ** e atualmente atuo como **Cientista de Dados Sênior** na **Americanas s.a**.
 
 Aqui você encontra os meus projetos voltados para Ciência de Dados, Engenharia de Dados e futuramente para Análises Econômicas.
 
