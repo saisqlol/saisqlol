@@ -16,9 +16,10 @@ Projeto de conclusão de curso focado na **Elasticidade-Preço da Demanda**.
 🔗 [Acesse o repositório aqui](https://github.com/saisqlol/Modelo-de-elasticidade)
 
 ### Logistica (Beep)
-Modelo de previsão de demanda para alocação de recursos de forma mais eficiente 
-Modelo para cálculo de oportunidades e aproveitamento de recursos
-Modelo de classificação para estimar probabilidade de cancelamento dos clientes
+Modelo de previsão de demanda para alocação de recursos de forma mais eficiente. 
+Modelo para cálculo de oportunidades e aproveitamento de recursos.
+Modelo de classificação para estimar probabilidade de cancelamento dos clientes.
+
 ---
 
 ## 🛠️ Experiências e Habilidades Técnicas
